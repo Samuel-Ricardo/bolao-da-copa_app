@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-random": "^13.0.0",
+    "react-native-svg-transformer": "^1.0.0"
+  }
+}
